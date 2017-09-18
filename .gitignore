@@ -1,1 +1,11 @@
-venv/Include venv/Lib venv/pyvenv.cfg venv/Scripts
+# Text backup files
+*.bak
+
+#Database
+*.sqlite3
+
+# Virtual Environment files
+venv
+
+# IDE Project data
+.idea
